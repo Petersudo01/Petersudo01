@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Peter Osama 👋
 
-<!--
-**Petersudo01/Petersudo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology and creating innovative projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+
+- **Portfolio:** [peterosama-portfolio](https://peterosama-portfolio-01.lovable.app/)  
+- **LinkedIn:** [Peter Osama](https://www.linkedin.com/in/peter-osama-7587b82b3/)  
+- **Instagram:** [@peter.oosama](https://www.instagram.com/peter.oosama?igsh=cWpvOTR6MjRvNHZ0)  
+- **Email:** [peter.osama@example.com](mailto:peter.osama@example.com)  
+
+---
+
+Feel free to reach out or connect with me! Let's collaborate and create amazing things together. 🚀
